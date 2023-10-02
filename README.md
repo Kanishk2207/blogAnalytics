@@ -74,13 +74,11 @@ $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/subspace_assignment
 # Access
 $ cd subspace_assignment
 
-# Install dependencies
-$ yarn
 
 # Run the project
-$ yarn start
+$ npm start
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:8080>
 ```
 
 ## :memo: License ##

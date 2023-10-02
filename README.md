@@ -58,7 +58,7 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
+- [Express.js]((https://expressjs.com/))
 - [Node.js](https://nodejs.org/en/)
 
 ## :white_check_mark: Requirements ##

@@ -74,6 +74,8 @@ $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/subspace_assignment
 # Access
 $ cd subspace_assignment
 
+# Install dependencies
+$ npm i
 
 # Run the project
 $ npm start
